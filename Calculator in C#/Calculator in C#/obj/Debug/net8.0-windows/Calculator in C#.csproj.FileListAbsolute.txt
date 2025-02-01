@@ -1,0 +1,16 @@
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\bin\Debug\net8.0-windows\Calculator in C#.exe
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\bin\Debug\net8.0-windows\Calculator in C#.deps.json
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\bin\Debug\net8.0-windows\Calculator in C#.runtimeconfig.json
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\bin\Debug\net8.0-windows\Calculator in C#.dll
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\bin\Debug\net8.0-windows\Calculator in C#.pdb
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator_in_C_.Form1.resources
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator in C#.csproj.GenerateResource.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator in C#.AssemblyInfoInputs.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator in C#.AssemblyInfo.cs
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator in C#.csproj.CoreCompileInputs.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator in C#.dll
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\refint\Calculator in C#.dll
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator in C#.pdb
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\Calculator in C#.genruntimeconfig.cache
+C:\Users\zayna\OneDrive\Desktop\Myprogrammingmaterial\Practise\C# practise\Calculator in C#\Calculator in C#\obj\Debug\net8.0-windows\ref\Calculator in C#.dll
